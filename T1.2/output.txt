@@ -1,0 +1,10 @@
+Activitatea: 0
+Intervalul: 0 3
+Intarziere: 2
+Activitatea: 1
+Intervalul: 3 5
+Intarziere: 3
+Activitatea: 2
+Intervalul: 5 8
+Intarziere: 5
+Intarzierea maxima: 5

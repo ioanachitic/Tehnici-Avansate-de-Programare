@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509362149 source:c:\users\kitty\desktop\tema 1 tap\t1.2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
